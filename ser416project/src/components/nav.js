@@ -113,7 +113,7 @@ export default function PersistentDrawerLeft() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" noWrap>
+          <Typography variant="h6" color="secondary" noWrap>
             Best Community Service
           </Typography>
         </Toolbar>
