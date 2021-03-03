@@ -47,7 +47,7 @@ const Donations = () => {
               <Typography variant="subtitle1" >Make a Donation</Typography> 
             </Grid>
             <Grid item xs={6} className={classes.name}>
-               <FormControl fullWidth className={classes.margin}>
+               <FormControl className={classes.margin}>
               
               <InputLabel htmlFor="standard-adornment-amount">Amount</InputLabel>
               <Input
